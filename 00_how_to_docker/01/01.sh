@@ -1,1 +1,1 @@
-docker-machine create --driver virtualbox Char ;; docker-machine ls
+docker-machine create --driver virtualbox Char && docker-machine ls
